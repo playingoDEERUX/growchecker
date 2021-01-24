@@ -1,0 +1,2 @@
+C:\Users\wizarduser\source\repos\GrowChecker\x64\Debug\GrowChecker.exe
+C:\Users\wizarduser\source\repos\GrowChecker\x64\Debug\GrowChecker.pdb

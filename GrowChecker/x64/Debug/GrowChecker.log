@@ -1,0 +1,25 @@
+﻿  callbacks.c
+  compress.c
+  host.c
+  list.c
+  packet.c
+  peer.c
+  protocol.c
+C:\Users\wizarduser\source\repos\GrowChecker\enet\defs.h(74,1): warning C4005: "LOBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(206): message : Siehe vorherige Definition von "LOBYTE"
+C:\Users\wizarduser\source\repos\GrowChecker\enet\defs.h(75,1): warning C4005: "LOWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(204): message : Siehe vorherige Definition von "LOWORD"
+C:\Users\wizarduser\source\repos\GrowChecker\enet\defs.h(77,1): warning C4005: "HIBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(207): message : Siehe vorherige Definition von "HIBYTE"
+C:\Users\wizarduser\source\repos\GrowChecker\enet\defs.h(78,1): warning C4005: "HIWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(205): message : Siehe vorherige Definition von "HIWORD"
+  win32.c
+  Code wird generiert...
+  essentials.cpp
+C:\Users\wizarduser\source\repos\GrowChecker\essentials.cpp(121,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  main.cpp
+  netclient.cpp
+C:\Users\wizarduser\source\repos\GrowChecker\netclient.cpp(17,79): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  tool.cpp
+  Code wird generiert...
+  GrowChecker.vcxproj -> C:\Users\wizarduser\source\repos\GrowChecker\x64\Debug\GrowChecker.exe

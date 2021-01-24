@@ -1,0 +1,22 @@
+﻿  callbacks.c
+  compress.c
+  host.c
+  list.c
+  packet.c
+  peer.c
+  protocol.c
+C:\Users\wizarduser\source\repos\GrowChecker\enet\defs.h(74,1): warning C4005: "LOBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(206): message : Siehe vorherige Definition von "LOBYTE"
+C:\Users\wizarduser\source\repos\GrowChecker\enet\defs.h(75,1): warning C4005: "LOWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(204): message : Siehe vorherige Definition von "LOWORD"
+C:\Users\wizarduser\source\repos\GrowChecker\enet\defs.h(77,1): warning C4005: "HIBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(207): message : Siehe vorherige Definition von "HIBYTE"
+C:\Users\wizarduser\source\repos\GrowChecker\enet\defs.h(78,1): warning C4005: "HIWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(205): message : Siehe vorherige Definition von "HIWORD"
+  win32.c
+  Code wird generiert.
+  98 of 411 functions (23.8%) were compiled, the rest were copied from previous compilation.
+    87 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  GrowChecker.vcxproj -> C:\Users\wizarduser\source\repos\GrowChecker\x64\Release\GrowChecker.exe
